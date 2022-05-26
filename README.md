@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Andrew Nguyen 👋
 
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: andrew.nguyen6262@gmail.com
